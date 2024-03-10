@@ -13,7 +13,7 @@ body {
 
 :root {
   --text-color: white;
-  --bg-url: url(./assets/bella-mobile.jpg);
+  --bg-url: url(./assets/bella-desktop.jpg);
   --stroke-color: rgba(255, 255, 255, 0.5);
   --surface-color: rgba(255, 255, 255, 0.1);
   --surface-color-hover: rgba(0, 0, 0, 0.02);
@@ -179,10 +179,10 @@ footer {
 
 @media (min-width: 700px) {
   :root {
-    --bg-url: url(./assets/bella-mobile.jpg);
+    --bg-url: url(./assets/bella-desktop.jpg);
   }
   .light {
-    --bg-url: url(./assets/bella-mobile-light.jpg);
+    --bg-url: url(./assets/bella-desktop-light.jpg);
   }
 }
 
