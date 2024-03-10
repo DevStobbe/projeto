@@ -13,7 +13,7 @@ body {
 
 :root {
   --text-color: white;
-  --bg-url: url(./assets/bella-desktop.jpg);
+  --bg-url: url(./assets/bella-mobile.jpg);
   --stroke-color: rgba(255, 255, 255, 0.5);
   --surface-color: rgba(255, 255, 255, 0.1);
   --surface-color-hover: rgba(0, 0, 0, 0.02);
@@ -55,7 +55,7 @@ body * {
 }
 
 #profile img {
-  width: 220px;
+  width: 180px;
 }
 
 #profile p {
